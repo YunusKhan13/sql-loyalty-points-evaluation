@@ -50,19 +50,20 @@ LEFT JOIN
 WHERE
     ug.Datetime BETWEEN '2022-10-02 00:00:00' AND '2022-10-02 11:59:59'
 GROUP BY
-    ug.User_ID;
+    ug.User_ID; 
+```
 
-Results
-Loyalty Points Calculation: Successfully calculated and ranked players based on loyalty points for different time slots and overall for the month.
+## Results
+- Loyalty Points Calculation: Successfully calculated and ranked players based on loyalty points for different time slots and overall for the month.
 
-Average Deposit Amount: Determined the average deposit amount per user and overall.
+- Average Deposit Amount: Determined the average deposit amount per user and overall.
 
-Average Games Played: Calculated the average number of games played per user.
+- Average Games Played: Calculated the average number of games played per user.
 
-Recommendations
-Proposed a fair method for bonus allocation among top players.
+## Recommendations
+- Proposed a fair method for bonus allocation among top players.
 
-Suggested improvements to the loyalty points formula to ensure fairness.
+- Suggested improvements to the loyalty points formula to ensure fairness.
 
-Conclusion
+## Conclusion
 This project demonstrates my ability to work with SQL, handle large datasets, and derive meaningful insights to enhance business strategies. It showcases my analytical skills and attention to detail in ensuring fairness and efficiency in loyalty reward systems.
