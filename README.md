@@ -52,15 +52,14 @@ WHERE
 GROUP BY
     ug.User_ID;
 
-
-## Results
+Results
 Loyalty Points Calculation: Successfully calculated and ranked players based on loyalty points for different time slots and overall for the month.
 
 Average Deposit Amount: Determined the average deposit amount per user and overall.
 
 Average Games Played: Calculated the average number of games played per user.
 
-## Recommendations
+Recommendations
 Proposed a fair method for bonus allocation among top players.
 
 Suggested improvements to the loyalty points formula to ensure fairness.
